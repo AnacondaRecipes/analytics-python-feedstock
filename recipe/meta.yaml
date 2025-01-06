@@ -49,8 +49,8 @@ about:
   home: https://github.com/segmentio/analytics-python
   summary: The hassle-free way to integrate analytics into any python application.
   license: MIT
-  license_file: LICENSE
   license_family: MIT
+  license_file: LICENSE
   description: analytics-python is a python client for [Segment](https://segment.com)
   doc_url: https://segment.com/libraries/python
   dev_url: https://github.com/segmentio/analytics-python
