@@ -1,4 +1,4 @@
-{% set name = "segment-analytics-python" %}
+{% set name = "analytics-python" %}
 {% set version = "2.3.3" %}
 
 package:
@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/segment-{{ name }}/segment-{{ name }}-{{ version }}.tar.gz
   sha256: ce6b3b4387ec9ebc5b55842c44d7dd63b4d4b0b8188e268c4492f909e5eeeed8
 
 build:
